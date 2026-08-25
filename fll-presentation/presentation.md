@@ -12,7 +12,7 @@ author: Olive & Vincent
 
 ---
 
-# Components of FLL                                      
+# Components of FLL
 - Robot Game
 - Robot Design
 - Innovation Project
@@ -37,10 +37,10 @@ author: Olive & Vincent
 ### innovation Project
 
 - this is by far the most rewarding part of the FLL
-- heres how to succeed 
+- heres how to succeed
 
 ---
-+
+
 ### step 1: get a problem
 
 - first find a problem that you want to solve that is related to biodiversity.
@@ -60,6 +60,7 @@ author: Olive & Vincent
 - if its a software project, opensource it, and if its a hardware project, build a prototype.
 - go around and use your skills as annoying pricks to advertise and beg for feedback. :D
 - get it reviewed by your peers, maybe your parents (but dont be too annoying to them), and if you can, experts.
+
 ### IMPORTANT: DO NOT vibecode your project, you'll look like an idiot when presenting.
 
 ---
