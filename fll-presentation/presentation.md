@@ -13,14 +13,6 @@ author: Olive & Vincent
 ---
 
 # Components of FLL                                      
-
-
-
-
-
-
-
-
 - Robot Game
 - Robot Design
 - Innovation Project
@@ -38,7 +30,7 @@ author: Olive & Vincent
 ### How to Score
 
 - just get better
-- uh yeah you use mechanisims to 
+- you basically use specialised mechanisms for each mission
 
 ---
 
@@ -48,7 +40,7 @@ author: Olive & Vincent
 - heres how to succeed 
 
 ---
-
++
 ### step 1: get a problem
 
 - first find a problem that you want to solve that is related to biodiversity.
@@ -109,4 +101,8 @@ author: Olive & Vincent
 - Fun
 
 - This translates to not gaming all the time in class
-- Also remember to be gentle towards competitors, the majority of people are babies in primary school so be nice 
+  - Also remember to be  gentle towards competitors, the majority of people are babies in primary school so be nice 
+
+# The End
+
+## Good Luck Teams!
